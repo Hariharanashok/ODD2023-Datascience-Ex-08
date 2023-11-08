@@ -19,7 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE
 NAME: HARIHARAN A
-REGISTER NUMBER:212222100012
+
+REGISTER NUMBER: 212222100012
 
 ```python
 #Import required libraries
